@@ -55,4 +55,5 @@
 <p align="left">
 <a href = "https://in.linkedin.com/in/harsh-narayan-rawat"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/__.harshu.__5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/iamharshnrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshnrawat" height="30" width="40" /></a>
 </p>
