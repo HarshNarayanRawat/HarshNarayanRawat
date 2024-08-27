@@ -14,7 +14,7 @@
 - 👩‍🎓 Persuing my B.Tech Degree from *Bharat Institute of Technology, Meerut*.
 
 
-- 👩‍💻 Know me more <a href="https://HarshNarayanRawat" style="text-decoration: none;">Portfolio</a>
+- 👩‍💻 Know me more <a href="https://HarshNarayanRawat.github.io" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=talktoharshnarayanrawat@gmail.com" style="text-decoration: none;">Email</a>
 
